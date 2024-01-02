@@ -1,6 +1,6 @@
 # CSS-API
 
-### # Background
+## # Background
 
 <details><summary>Background</summary><blockquote>
 
@@ -44,7 +44,7 @@
   * [`mask-type`](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-type)
 </blockquote></details>
 
-### # Box Model
+## # Box Model
 
 <details><summary>Border</summary><blockquote>
 
@@ -233,7 +233,7 @@
     * [`inset-block-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block-start)
 </blockquote></details>
 
-### # Layout
+## # Layout
 
 <details><summary>Column</summary><blockquote>
 
@@ -318,7 +318,7 @@
 </blockquote></details>
 
 
-### # Object
+## # Object
 
 <details><summary>Image</summary><blockquote>
 
@@ -349,7 +349,7 @@
 </blockquote></details>
 
 
-### # Scroll
+## # Scroll
 
 <details><summary>Overflow</summary><blockquote>
 
@@ -409,7 +409,7 @@
 </blockquote></details>
 
 
-### # Text
+## # Text
 
 <details><summary>Font</summary><blockquote>
 
@@ -501,7 +501,7 @@
   * [`writing-mode`](https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode)
 </blockquote></details>
 
-### # Transformation
+## # Transformation
 
 <details><summary>Animation</summary><blockquote>
 
@@ -541,7 +541,7 @@
 </blockquote></details>
 
 
-### # Others
+## # Others
 
 <details><summary>Display</summary><blockquote>
 
