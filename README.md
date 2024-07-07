@@ -38,7 +38,6 @@
       * [`font-variant-numeric`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-numeric)
       * [`font-variant-position`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-position)
     * [`font-weight`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
-    * [`line-height`](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
     * [`font-optical-sizing`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-optical-sizing)
     * [`font-kerning`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-kerning)
     * [`font-feature-settings`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings)
@@ -53,6 +52,7 @@
 <details><summary>Paragraph</summary><blockquote>
 
   * [`line-break`](https://developer.mozilla.org/en-US/docs/Web/CSS/line-break)
+  * [`line-height`](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
   * [`letter-spacing`](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
   * [`quotes`](https://developer.mozilla.org/en-US/docs/Web/CSS/quotes)
   * [`hyphens`](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
