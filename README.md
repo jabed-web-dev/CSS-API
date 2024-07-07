@@ -145,6 +145,59 @@
   * [`units`](https://github.com/jabed-web-dev/CSS-API/blob/main/Units.md)
 </blockquote></details>
 
+<details><summary>Size</summary><blockquote>
+
+  * [`width`](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
+  * [`height`](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
+  * [`max-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/max-width)
+  * [`max-height`](https://developer.mozilla.org/en-US/docs/Web/CSS/max-height)
+  * [`min-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/min-width)
+  * [`min-height`](https://developer.mozilla.org/en-US/docs/Web/CSS/min-height)
+  * [`aspect-ratio`](https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio)
+
+  Inline & Block
+  * [`inline-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/inline-size)
+  * [`max-inline-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/max-inline-size)
+  * [`min-inline-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/min-inline-size)
+  * [`block-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/block-size)
+  * [`max-block-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/max-block-size)
+  * [`min-block-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/min-block-size)
+</blockquote></details>
+
+<details><summary>Margin</summary><blockquote>
+
+  * [`margin`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
+    * [`margin-bottom`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-bottom)
+    * [`margin-left`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-left)
+    * [`margin-right`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-right)
+    * [`margin-top`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-top)
+
+  Inline & Block
+  * [`margin-inline`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline)
+    * [`margin-inline-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline-end)
+    * [`margin-inline-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline-start)
+  * [`margin-block`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block)
+    * [`margin-block-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-end)
+    * [`margin-block-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-start)
+</blockquote></details>
+
+<details><summary>Padding</summary><blockquote>
+
+  * [`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
+    * [`padding-left`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-left)
+    * [`padding-right`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-right)
+    * [`padding-top`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-top)
+    * [`padding-bottom`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-bottom)
+
+  Inline & Block
+  * [`padding-inline`](https://developer.mozilla.org/en-US/docs/Web/CSS/paddin-inlineg)
+    * [`padding-inline-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-inline-end)
+    * [`padding-inline-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-inline-start)
+  * [`padding-block`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block)
+    * [`padding-block-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block-end)
+    * [`padding-block-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block-start)
+</blockquote></details>
+
 <details><summary>Border</summary><blockquote>
 
   * [`border`](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
@@ -173,10 +226,8 @@
       * [`border-image-slice`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-slice)
       * [`border-image-source`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-source)
       * [`border-image-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-width)
-</blockquote></details>
 
-<details><summary>Border Inline|Block</summary><blockquote>
-
+Inline & Block
   * [`border-inline`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline)
     * [`border-inline-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-color)
     * [`border-inline-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-style)
@@ -212,11 +263,20 @@
     * [`border-bottom-left-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-left-radius)
     * [`border-bottom-right-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-right-radius)
 
-  Inline|Block
+  Inline & Block
   * [`border-start-start-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-start-start-radius)
   * [`border-start-end-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-start-end-radius)
   * [`border-end-end-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-end-radius)
   * [`border-end-start-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-start-radius)
+</blockquote></details>
+
+<details><summary>Outline</summary><blockquote>
+
+  * [`outline`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline)
+    * [`outline-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-color)
+    * [`outline-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-style)
+    * [`outline-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-width)
+  * [`outline-offset`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-offset)
 </blockquote></details>
 
 <details><summary>Box</summary><blockquote>
@@ -235,73 +295,10 @@
     * [`contain-intrinsic-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-width)
     * [`contain-intrinsic-height`](https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-height)
 
-  Inline|Block
+  Inline & Block
   * [`contain-intrinsic-inline-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-inline-size)
   * [`contain-intrinsic-block-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-block-size)
 </blockquote></details>
-
-<details><summary>Margin</summary><blockquote>
-
-  * [`margin`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
-    * [`margin-bottom`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-bottom)
-    * [`margin-left`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-left)
-    * [`margin-right`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-right)
-    * [`margin-top`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-top)
-
-  Inline|Block
-  * [`margin-inline`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline)
-    * [`margin-inline-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline-end)
-    * [`margin-inline-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline-start)
-  * [`margin-block`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block)
-    * [`margin-block-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-end)
-    * [`margin-block-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-start)
-</blockquote></details>
-
-<details><summary>Outline</summary><blockquote>
-
-  * [`outline`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline)
-    * [`outline-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-color)
-    * [`outline-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-style)
-    * [`outline-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-width)
-  * [`outline-offset`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-offset)
-</blockquote></details>
-
-<details><summary>Padding</summary><blockquote>
-
-  * [`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
-    * [`padding-left`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-left)
-    * [`padding-right`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-right)
-    * [`padding-top`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-top)
-    * [`padding-bottom`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-bottom)
-
-  Inline|Block
-  * [`padding-inline`](https://developer.mozilla.org/en-US/docs/Web/CSS/paddin-inlineg)
-    * [`padding-inline-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-inline-end)
-    * [`padding-inline-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-inline-start)
-  * [`padding-block`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block)
-    * [`padding-block-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block-end)
-    * [`padding-block-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block-start)
-</blockquote></details>
-
-<details><summary>Size</summary><blockquote>
-
-  * [`height`](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
-  * [`width`](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
-  * [`max-height`](https://developer.mozilla.org/en-US/docs/Web/CSS/max-height)
-  * [`max-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/max-width)
-  * [`min-height`](https://developer.mozilla.org/en-US/docs/Web/CSS/min-height)
-  * [`min-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/min-width)
-  * [`aspect-ratio`](https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio)
-
-  Inline|Block
-  * [`inline-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/inline-size)
-  * [`max-inline-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/max-inline-size)
-  * [`min-inline-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/min-inline-size)
-  * [`block-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/block-size)
-  * [`max-block-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/max-block-size)
-  * [`min-block-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/min-block-size)
-</blockquote></details>
-
 
 <details><summary>Position</summary><blockquote>
 
@@ -315,7 +312,7 @@
   * [`float`](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
   * [`clear`](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)
 
-  Inline|Block
+  Inline & Block
   * [`inset-inline`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline)
     * [`inset-inline-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline-end)
     * [`inset-inline-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline-start)
@@ -471,7 +468,7 @@
   * [`overscroll-behavior-x`](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-x)
   * [`overscroll-behavior-y`](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-y)
 
-  Inline|Block
+  Inline & Block
   * [`overscroll-behavior-inline`](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-inline)
   * [`overscroll-behavior-block`](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-block)
 </blockquote></details>
@@ -494,10 +491,8 @@
   * [`scroll-snap-stop`](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-stop)
   * [`scroll-snap-type`](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type)
   * [`scrollbar-gutter`](https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-gutter)
-</blockquote></details>
-
-<details><summary>Scroll Inline|Block</summary><blockquote>
-
+    
+Inline & Block
   * [`scroll-margin-inline`](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-inline)
     * [`scroll-margin-inline-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-inline-end)
     * [`scroll-margin-inline-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-inline-start)
