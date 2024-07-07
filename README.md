@@ -306,6 +306,7 @@ Inline & Block
 
   * [`display`](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
   * [`visibility`](https://developer.mozilla.org/en-US/docs/Web/CSS/visibility)
+  * [`@media`](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
 </blockquote></details>
 
 <details><summary>Column</summary><blockquote>
@@ -522,6 +523,7 @@ Inline & Block
     * [`animation-play-state`](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-play-state)
     * [`animation-timing-function`](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
   * [`animation-composition`](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-composition)
+  * [`@keyframes`](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
 </blockquote></details>
 
 <details><summary>Transition</summary><blockquote>
