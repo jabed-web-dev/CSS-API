@@ -1,5 +1,99 @@
 # CSS-API
 
+
+## # Text
+
+<details><summary>Text</summary><blockquote>
+
+  * [`color`](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
+  * [`text-align`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
+  * [`text-align-last`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align-last)
+  * [`text-indent`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent)
+  * [`text-overflow`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow)
+  * [`text-rendering`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering)
+  * [`text-transform`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
+  * [`text-wrap`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap)
+  * [`-webkit-text-stroke`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke)
+  * [`-webkit-text-stroke-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke-width)
+  * [`-webkit-text-stroke-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke-color)
+  * [`-webkit-text-fill-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color)
+  * [`-webkit-text-security`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-security)
+  * [`ruby-position`](https://developer.mozilla.org/en-US/docs/Web/CSS/ruby-position)
+  * [`math-depth`](https://developer.mozilla.org/en-US/docs/Web/CSS/math-depth)
+  * [`math-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/math-style)
+</blockquote></details>
+
+<details><summary>Font</summary><blockquote>
+
+  * [`font`](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
+    * [`font-family`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+    * [`font-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
+    * [`font-stretch`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch)
+    * [`font-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style)
+    * [`font-variant`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant)
+      * [`font-variant-alternates`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-alternates)
+      * [`font-variant-caps`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-caps)
+      * [`font-variant-east-asian`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-east-asian)
+      * [`font-variant-ligatures`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-ligatures)
+      * [`font-variant-numeric`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-numeric)
+      * [`font-variant-position`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-position)
+    * [`font-weight`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
+    * [`line-height`](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
+    * [`font-optical-sizing`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-optical-sizing)
+    * [`font-kerning`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-kerning)
+    * [`font-feature-settings`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings)
+    * [`font-variation-settings`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variation-settings)
+  * [`font-synthesis`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis)
+    * [`font-synthesis-weight`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-weight)
+    * [`font-synthesis-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-style)
+    * [`font-synthesis-small-caps`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-small-caps)
+  * [`font-palette`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-palette)
+</blockquote></details>
+
+<details><summary>Paragraph</summary><blockquote>
+
+  * [`line-break`](https://developer.mozilla.org/en-US/docs/Web/CSS/line-break)
+  * [`letter-spacing`](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
+  * [`quotes`](https://developer.mozilla.org/en-US/docs/Web/CSS/quotes)
+  * [`hyphens`](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
+  * [`hypenate-character`](https://developer.mozilla.org/en-US/docs/Web/CSS/hypenate-character)
+  * [`tab-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/tab-size)
+  * [`white-space`](https://developer.mozilla.org/en-US/docs/Web/CSS/white-space)
+  * [`overflow-wrap`](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap)
+  * [`└= word-wrap`](https://www.w3schools.com/cssref/css3_pr_word-wrap.php)
+  * [`word-break`](https://developer.mozilla.org/en-US/docs/Web/CSS/word-break)
+  * [`word-spacing`](https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing)
+  * [`-webkit-line-clamp`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-line-clamp)
+</blockquote></details>
+
+<details><summary>Text Decoration</summary><blockquote>
+
+  * [`text-decoration`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
+    * [`text-decoration-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color)
+    * [`text-decoration-line`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line)
+    * [`text-decoration-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style)
+    * [`text-decoration-thickness`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-thickness)
+  * [`text-decoration-skip-ink`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip-ink)
+  * [`text-emphasis`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis)
+    * [`text-emphasis-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-color)
+    * [`text-emphasis-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-style)
+  * [`text-emphasis-position`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-position)
+  * [`text-shadow`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
+  * [`text-underline-offset`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset)
+  * [`text-underline-position`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-position)
+</blockquote></details>
+
+<details><summary>Writing Modes</summary><blockquote>
+
+  * [`direction`](https://developer.mozilla.org/en-US/docs/Web/CSS/direction)
+  * [`text-combine-upright`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-combine)
+  * `-webkit-text-combine`
+  * [`text-orientation`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-orientation)
+  * [`unicode-bidi`](https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-bidi)
+  * [`writing-mode`](https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode)
+</blockquote></details>
+
+
 ## # Background
 
 <details><summary>Background</summary><blockquote>
@@ -45,6 +139,11 @@
 </blockquote></details>
 
 ## # Box Model
+
+<details><summary>Units</summary><blockquote>
+
+  * [`units`](https://github.com/jabed-web-dev/CSS-API/blob/main/units.md)
+</blockquote></details>
 
 <details><summary>Border</summary><blockquote>
 
@@ -421,98 +520,6 @@
     * [`scroll-padding-block-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-block-start)
 </blockquote></details>
 
-
-## # Text
-
-<details><summary>Font</summary><blockquote>
-
-  * [`font`](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
-    * [`font-family`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
-    * [`font-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
-    * [`font-stretch`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch)
-    * [`font-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style)
-    * [`font-variant`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant)
-      * [`font-variant-alternates`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-alternates)
-      * [`font-variant-caps`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-caps)
-      * [`font-variant-east-asian`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-east-asian)
-      * [`font-variant-ligatures`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-ligatures)
-      * [`font-variant-numeric`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-numeric)
-      * [`font-variant-position`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-position)
-    * [`font-weight`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
-    * [`line-height`](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
-    * [`font-optical-sizing`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-optical-sizing)
-    * [`font-kerning`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-kerning)
-    * [`font-feature-settings`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings)
-    * [`font-variation-settings`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variation-settings)
-  * [`font-synthesis`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis)
-    * [`font-synthesis-weight`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-weight)
-    * [`font-synthesis-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-style)
-    * [`font-synthesis-small-caps`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-small-caps)
-  * [`font-palette`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-palette)
-</blockquote></details>
-
-<details><summary>Paragraph</summary><blockquote>
-
-  * [`line-break`](https://developer.mozilla.org/en-US/docs/Web/CSS/line-break)
-  * [`letter-spacing`](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
-  * [`quotes`](https://developer.mozilla.org/en-US/docs/Web/CSS/quotes)
-  * [`hyphens`](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
-  * [`hypenate-character`](https://developer.mozilla.org/en-US/docs/Web/CSS/hypenate-character)
-  * [`tab-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/tab-size)
-  * [`white-space`](https://developer.mozilla.org/en-US/docs/Web/CSS/white-space)
-  * [`overflow-wrap`](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap)
-  * [`└= word-wrap`](https://www.w3schools.com/cssref/css3_pr_word-wrap.php)
-  * [`word-break`](https://developer.mozilla.org/en-US/docs/Web/CSS/word-break)
-  * [`word-spacing`](https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing)
-  * [`-webkit-line-clamp`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-line-clamp)
-</blockquote></details>
-
-<details><summary>Text Decoration</summary><blockquote>
-
-  * [`text-decoration`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
-    * [`text-decoration-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color)
-    * [`text-decoration-line`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line)
-    * [`text-decoration-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style)
-    * [`text-decoration-thickness`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-thickness)
-  * [`text-decoration-skip-ink`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip-ink)
-  * [`text-emphasis`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis)
-    * [`text-emphasis-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-color)
-    * [`text-emphasis-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-style)
-  * [`text-emphasis-position`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-position)
-  * [`text-shadow`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
-  * [`text-underline-offset`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset)
-  * [`text-underline-position`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-position)
-</blockquote></details>
-
-<details><summary>Text</summary><blockquote>
-
-  * [`color`](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
-  * [`text-align`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
-  * [`text-align-last`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align-last)
-  * [`text-indent`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent)
-  * [`text-overflow`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow)
-  * [`text-rendering`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering)
-  * [`text-transform`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
-  * [`text-wrap`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap)
-  * [`-webkit-text-stroke`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke)
-  * [`-webkit-text-stroke-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke-width)
-  * [`-webkit-text-stroke-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke-color)
-  * [`-webkit-text-fill-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color)
-  * [`-webkit-text-security`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-security)
-  * [`ruby-position`](https://developer.mozilla.org/en-US/docs/Web/CSS/ruby-position)
-  * [`math-depth`](https://developer.mozilla.org/en-US/docs/Web/CSS/math-depth)
-  * [`math-style`](https://developer.mozilla.org/en-US/docs/Web/CSS/math-style)
-</blockquote></details>
-
-<details><summary>Writing Modes</summary><blockquote>
-
-  * [`direction`](https://developer.mozilla.org/en-US/docs/Web/CSS/direction)
-  * [`text-combine-upright`](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-combine)
-  * `-webkit-text-combine`
-  * [`text-orientation`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-orientation)
-  * [`unicode-bidi`](https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-bidi)
-  * [`writing-mode`](https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode)
-</blockquote></details>
 
 ## # Transformation
 
