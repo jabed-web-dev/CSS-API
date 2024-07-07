@@ -300,27 +300,6 @@ Inline & Block
   * [`contain-intrinsic-block-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-block-size)
 </blockquote></details>
 
-<details><summary>Position</summary><blockquote>
-
-  * [`position`](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-  * [`inset`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset)
-    * [`top`](https://developer.mozilla.org/en-US/docs/Web/CSS/top)
-    * [`left`](https://developer.mozilla.org/en-US/docs/Web/CSS/left)
-    * [`right`](https://developer.mozilla.org/en-US/docs/Web/CSS/right)
-    * [`bottom`](https://developer.mozilla.org/en-US/docs/Web/CSS/bottom)
-  * [`z-index`](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)
-  * [`float`](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
-  * [`clear`](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)
-
-  Inline & Block
-  * [`inset-inline`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline)
-    * [`inset-inline-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline-end)
-    * [`inset-inline-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline-start)
-  * [`inset-block`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block)
-    * [`inset-block-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block-end)
-    * [`inset-block-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block-start)
-</blockquote></details>
-
 ## # Layout
 
 <details><summary>Display</summary><blockquote>
@@ -416,6 +395,27 @@ Inline & Block
   * [`place-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/place-self)
     * [`align-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self)
     * [`justify-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-self)
+</blockquote></details>
+
+<details><summary>Position</summary><blockquote>
+
+  * [`position`](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+  * [`inset`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset)
+    * [`top`](https://developer.mozilla.org/en-US/docs/Web/CSS/top)
+    * [`left`](https://developer.mozilla.org/en-US/docs/Web/CSS/left)
+    * [`right`](https://developer.mozilla.org/en-US/docs/Web/CSS/right)
+    * [`bottom`](https://developer.mozilla.org/en-US/docs/Web/CSS/bottom)
+  * [`z-index`](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)
+  * [`float`](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
+  * [`clear`](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)
+
+  Inline & Block
+  * [`inset-inline`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline)
+    * [`inset-inline-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline-end)
+    * [`inset-inline-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline-start)
+  * [`inset-block`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block)
+    * [`inset-block-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block-end)
+    * [`inset-block-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block-start)
 </blockquote></details>
 
 
