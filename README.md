@@ -235,6 +235,12 @@
 
 ## # Layout
 
+<details><summary>Display</summary><blockquote>
+
+  * [`display`](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+  * [`visibility`](https://developer.mozilla.org/en-US/docs/Web/CSS/visibility)
+</blockquote></details>
+
 <details><summary>Column</summary><blockquote>
 
   * [`columns`](https://developer.mozilla.org/en-US/docs/Web/CSS/columns)
@@ -249,6 +255,15 @@
   * [`column-gap`](https://developer.mozilla.org/en-US/docs/Web/CSS/column-gap)
 </blockquote></details>
 
+<details><summary>Table</summary><blockquote>
+
+  * [`table-layout`](https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout)
+  * [`border-collapse`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse)
+  * [`border-spacing`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-spacing)
+  * [`caption-side`](https://developer.mozilla.org/en-US/docs/Web/CSS/caption-side)
+  * [`empty-cells`](https://developer.mozilla.org/en-US/docs/Web/CSS/empty-cells)
+  * [`vertical-align`](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align)
+</blockquote></details>
 
 <details><summary>Container</summary><blockquote>
 
@@ -256,7 +271,6 @@
     * [`container-name`](https://developer.mozilla.org/en-US/docs/Web/CSS/container-name)
     * [`container-type`](https://developer.mozilla.org/en-US/docs/Web/CSS/container-type)
 </blockquote></details>
-
 
 <details><summary>Flex</summary><blockquote>
 
@@ -280,7 +294,6 @@
   * [`order`](https://developer.mozilla.org/en-US/docs/Web/CSS/order)
   * [`align-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self)
 </blockquote></details>
-
 
 <details><summary>Grid</summary><blockquote>
 
@@ -543,12 +556,6 @@
 
 ## # Others
 
-<details><summary>Display</summary><blockquote>
-
-  * [`display`](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
-  * [`visibility`](https://developer.mozilla.org/en-US/docs/Web/CSS/visibility)
-</blockquote></details>
-
 <details><summary>Input</summary><blockquote>
 
   * [`accent-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color)
@@ -562,16 +569,6 @@
     * [`list-style-image`](https://developer.mozilla.org/en-US/docs/Web/CSS/ist-style-image)
     * [`list-style-position`](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-position)
     * [`list-style-type`](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)
-</blockquote></details>
-
-<details><summary>Table</summary><blockquote>
-
-  * [`table-layout`](https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout)
-  * [`border-collapse`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse)
-  * [`border-spacing`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-spacing)
-  * [`caption-side`](https://developer.mozilla.org/en-US/docs/Web/CSS/caption-side)
-  * [`empty-cells`](https://developer.mozilla.org/en-US/docs/Web/CSS/empty-cells)
-  * [`vertical-align`](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align)
 </blockquote></details>
 
 <details><summary>Page</summary><blockquote>
