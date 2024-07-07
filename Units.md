@@ -17,10 +17,10 @@
 
   * Based on parent element's font: `em ex ch ic lh cap`
   * Based on root element's font: `rem rex rch ric rlh rcap`
-  * Based on viewport: `vw vh vi vb vmax vmin`
-  * Container query length units: `cqw cqh cqi cqb cqmin cqmax`
+  * Based on viewport %: `vw vh vi vb vmax vmin`
+  * Container query length units %: `cqw cqh cqi cqb cqmin cqmax`
   * Percentage: `%`
-  * writing-mode: `vi vb cqi cqb`
+  * Inline and Block: `vi vb cqi cqb`
 
 **Content length properties:**\
   `auto max-content min-content fit-content`
