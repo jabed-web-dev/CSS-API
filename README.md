@@ -175,7 +175,6 @@
       * [`border-image-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-width)
 </blockquote></details>
 
-
 <details><summary>Border Inline|Block</summary><blockquote>
 
   * [`border-inline`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline)
@@ -205,6 +204,20 @@
       * [`border-block-start-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-start-width)
 </blockquote></details>
 
+<details><summary>Border Radius</summary><blockquote>
+
+  * [`border-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius)
+    * [`border-top-left-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-left-radius)
+    * [`border-top-right-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-right-radius)
+    * [`border-bottom-left-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-left-radius)
+    * [`border-bottom-right-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-right-radius)
+
+  Inline|Block
+  * [`border-start-start-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-start-start-radius)
+  * [`border-start-end-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-start-end-radius)
+  * [`border-end-end-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-end-radius)
+  * [`border-end-start-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-start-radius)
+</blockquote></details>
 
 <details><summary>Box</summary><blockquote>
 
@@ -214,7 +227,6 @@
   * `-webkit-box-decoration-break`
   * [`resize`](https://developer.mozilla.org/en-US/docs/Web/CSS/resize)
 </blockquote></details>
-
 
 <details><summary>Contain</summary><blockquote>
 
@@ -227,7 +239,6 @@
   * [`contain-intrinsic-inline-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-inline-size)
   * [`contain-intrinsic-block-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-block-size)
 </blockquote></details>
-
 
 <details><summary>Margin</summary><blockquote>
 
@@ -246,7 +257,6 @@
     * [`margin-block-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-start)
 </blockquote></details>
 
-
 <details><summary>Outline</summary><blockquote>
 
   * [`outline`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline)
@@ -255,7 +265,6 @@
     * [`outline-width`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-width)
   * [`outline-offset`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-offset)
 </blockquote></details>
-
 
 <details><summary>Padding</summary><blockquote>
 
@@ -273,23 +282,6 @@
     * [`padding-block-end`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block-end)
     * [`padding-block-start`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block-start)
 </blockquote></details>
-
-
-<details><summary>Border Radius</summary><blockquote>
-
-  * [`border-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius)
-    * [`border-top-left-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-left-radius)
-    * [`border-top-right-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-right-radius)
-    * [`border-bottom-left-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-left-radius)
-    * [`border-bottom-right-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-right-radius)
-
-  Inline|Block
-  * [`border-start-start-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-start-start-radius)
-  * [`border-start-end-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-start-end-radius)
-  * [`border-end-end-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-end-radius)
-  * [`border-end-start-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-start-radius)
-</blockquote></details>
-
 
 <details><summary>Size</summary><blockquote>
 
