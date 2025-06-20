@@ -11,8 +11,8 @@
 | `pt` | 1.33333333333333 px   | point              |
 | `q`  | 0.944881889775 px     | quarter-millimeter |
 
----
-
+<br>
+ 
  **Absolute font size:**
 | Keyword    | Approx. px size  |
 |------------|------------------|
@@ -27,7 +27,7 @@
 | `xx-large` | ~32px            |
 | `xxx-large`| ~48px            |
 
----
+<br>
 
 ## Relative length units:
  **Relative units:** `em rem vw vh vmin vmax cqw cqh cqmin cqmax %`
@@ -43,13 +43,12 @@
   `auto max-content min-content fit-content`
   
 **Container length methods:**\
-  `min(width, max-width)`\
-  `max(width, min-width)`\
-  `minmax(min-width, max-width)`\
-  `clamp(min-width, width, max-width)`\
-  `calc(length-x [+,-,*,/] length-y)`
+  * `min(width, max-width)`\
+  * `max(width, min-width)`\
+  * `minmax(min-width, max-width)`\
+  * `clamp(min-width, width, max-width)`\
+  * `calc(length-x [+,-,*,/] length-y)`
 
----
 
 *Note:*  
 - `min()`, `max()`, `clamp()` are general CSS functions to compute lengths.  
