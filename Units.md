@@ -21,8 +21,8 @@
 | `small`    | ~13px            |
 | `smaller`  | Smaller than parent font size |
 | `medium`   | ~16px            |
-| `large`    | ~18px            |
 | `larger`   | Larger than parent font size |
+| `large`    | ~18px            |
 | `x-large`  | ~24px            |
 | `xx-large` | ~32px            |
 | `xxx-large`| ~48px            |
