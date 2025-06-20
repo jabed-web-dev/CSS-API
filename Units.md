@@ -1,16 +1,33 @@
 ## Absolute length units:
  **Absolute units:** `px mm cm q in pc pt`
 
- * px = 1in/96
- * mm = 3.7795275590551185px
- * cm = 37.795275591px
- * in = 96px
- * pc = 16px
- * pt = 1.33333333333333px
- * q = 0.944881889775px
+| Unit | Equivalent in Pixels  | Full Name          |
+| ---- | --------------------- | ------------------ |
+| `px` | 1in / 96              | pixel              |
+| `mm` | 3.7795275590551185 px | millimeter         |
+| `cm` | 37.795275591 px       | centimeter         |
+| `in` | 96 px                 | inch               |
+| `pc` | 16 px                 | pica               |
+| `pt` | 1.33333333333333 px   | point              |
+| `q`  | 0.944881889775 px     | quarter-millimeter |
+
+---
 
  **Absolute font size:**
-  `xx-small x-small small smaller medium large larger x-large xx-large xxx-large`
+| Keyword    | Approx. px size  |
+|------------|------------------|
+| `xx-small` | ~9px             |
+| `x-small`  | ~10px            |
+| `small`    | ~13px            |
+| `smaller`  | Smaller than parent font size |
+| `medium`   | ~16px            |
+| `large`    | ~18px            |
+| `larger`   | Larger than parent font size |
+| `x-large`  | ~24px            |
+| `xx-large` | ~32px            |
+| `xxx-large`| ~48px            |
+
+---
 
 ## Relative length units:
  **Relative units:** `em rem vw vh vmin vmax cqw cqh cqmin cqmax %`
@@ -31,3 +48,10 @@
   `minmax(min-width, max-width)`\
   `clamp(min-width, width, max-width)`\
   `calc(length-x [+,-,*,/] length-y)`
+
+---
+
+*Note:*  
+- `min()`, `max()`, `clamp()` are general CSS functions to compute lengths.  
+- `minmax()` is used primarily within CSS Grid for track sizing.  
+- `calc()` supports arithmetic operations on length values.
