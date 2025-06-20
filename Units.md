@@ -27,7 +27,7 @@
   
 **Container length methods:**\
   `min(width, max-width)`\
-  `mix(width, min-width)`\
-  `max(min(width, max-width), min-width) = min(max()) = clamp()`\
+  `max(width, min-width)`\
+  `minmax(min-width, max-width)`\
   `clamp(min-width, width, max-width)`\
   `calc(length-x [+,-,*,/] length-y)`
