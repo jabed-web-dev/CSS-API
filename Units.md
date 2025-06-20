@@ -40,13 +40,14 @@
   * Inline and Block: `vi vb cqi cqb`
 
 **Content length properties:**\
-  `auto max-content min-content fit-content`
+  `auto max-content min-content fit-content // stretch`
   
 **Container length methods:**
   * `min(width, max-width)`
   * `max(width, min-width)`
   * `minmax(min-width, max-width)`
   * `clamp(min-width, width, max-width)`
+  * `fit-content(max-available-length)`
   * `calc(length-x [+,-,*,/] length-y)`
 
 
