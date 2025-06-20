@@ -42,11 +42,11 @@
 **Content length properties:**\
   `auto max-content min-content fit-content`
   
-**Container length methods:**\
-  * `min(width, max-width)`\
-  * `max(width, min-width)`\
-  * `minmax(min-width, max-width)`\
-  * `clamp(min-width, width, max-width)`\
+**Container length methods:**
+  * `min(width, max-width)`
+  * `max(width, min-width)`
+  * `minmax(min-width, max-width)`
+  * `clamp(min-width, width, max-width)`
   * `calc(length-x [+,-,*,/] length-y)`
 
 
