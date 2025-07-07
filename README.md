@@ -56,7 +56,7 @@
   * [`letter-spacing`](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
   * [`quotes`](https://developer.mozilla.org/en-US/docs/Web/CSS/quotes)
   * [`hyphens`](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
-  * [`hypenate-character`](https://developer.mozilla.org/en-US/docs/Web/CSS/hypenate-character)
+  * [`hyphenate-character`](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphenate-character)
   * [`tab-size`](https://developer.mozilla.org/en-US/docs/Web/CSS/tab-size)
   * [`white-space`](https://developer.mozilla.org/en-US/docs/Web/CSS/white-space)
   * [`overflow-wrap`](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap)
